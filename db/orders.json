@@ -1,0 +1,16 @@
+[
+  {
+    "id": "order_1720512000000",
+    "customerId": "abc123",
+    "items": [
+      {
+        "productId": 4,
+        "name": "The Great Gatsby",
+        "price": 40,
+        "quantity": 1
+      }
+    ],
+    "total": 40,
+    "createdAt": "2026-07-09T09:30:00.000Z"
+  }
+]
