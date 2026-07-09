@@ -1,0 +1,25 @@
+{
+  "name": "online_store",
+  "version": "1.0.0",
+  "description": "\"# online_store\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yossishlos/online_store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/yossishlos/online_store/issues"
+  },
+  "homepage": "https://github.com/yossishlos/online_store#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
